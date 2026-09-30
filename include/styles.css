@@ -1,0 +1,408 @@
+p
+{
+    margin: 0;
+    padding: 0 0 0 5.0em;
+    text-indent: -5.0em
+}
+A:link
+{
+    COLOR: #3377ff;
+    BACKGROUND-COLOR: #000000;
+    TEXT-DECORATION: none
+}
+a:visited
+{
+    COLOR: #3377ff;
+    BACKGROUND-COLOR: #000000;
+    TEXT-DECORATION: none
+}
+a:hover
+{
+    COLOR: #00afff;
+    BACKGROUND-COLOR: #000000;
+    TEXT-DECORATION: none
+}
+a:active
+{
+    COLOR: #00afff;
+    BACKGROUND-COLOR: #000000;
+    TEXT-DECORATION: none
+}
+.channeluser
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.channellist
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.channelname
+{
+    TEXT-ALIGN: center;
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.channelname-text
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.channeltext
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.textsubmit
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.textsubmittiny
+{
+    FONT-SIZE: x-small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.channelenum
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.channelinfo
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.channelenumcaption
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.inputp
+{
+    TEXT-INDENT: 0em
+}
+th.channelenumheadername
+{
+    TEXT-ALIGN: left;
+    WIDTH: 245px;
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+th.channelenumheaderusers
+{
+    TEXT-ALIGN: left;
+    WIDTH: 135px;
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+th.channelenumheaderhost
+{
+    TEXT-ALIGN: left;
+    WIDTH: 150px;
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+td.channelenumname
+{
+    WIDTH: 245px;
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+td.channelenumusers
+{
+    WIDTH: 135px;
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+td.channelenumhost
+{
+    WIDTH: 150px;
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.versionbody
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.versiontext
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.messagefailbody
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.messagefailtext
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.messagesuccessbody
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.messagesuccesstext
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.timestamp
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.anglebracket
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.anglebracketself
+{
+    FONT-SIZE: small;
+    COLOR: #00ffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.username
+{
+    FONT-SIZE: small;
+    COLOR: #ffff00;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.usernamewhisper
+{
+    FONT-SIZE: small;
+    COLOR: #006fff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.usernameinchannel
+{
+    FONT-SIZE: small;
+    COLOR: #ffff00;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.usernamejoin
+{
+    FONT-SIZE: small;
+    COLOR: #00ff00;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.usernameleave
+{
+    FONT-SIZE: small;
+    COLOR: #00ff00;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.usernameop
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.usernamesysop
+{
+    FONT-SIZE: small;
+    COLOR: #00ffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.usernameself
+{
+    FONT-SIZE: small;
+    COLOR: #00ffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.usernamesquelched
+{
+    FONT-SIZE: small;
+    COLOR: #ff00ff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.whisperfrom
+{
+    FONT-SIZE: small;
+    COLOR: #006fff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.whisperto
+{
+    FONT-SIZE: small;
+    COLOR: #006fff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.error
+{
+    FONT-SIZE: small;
+    COLOR: #ff0000;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.info
+{
+    FONT-SIZE: small;
+    COLOR: #ffff00;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.textmodifier
+{
+    FONT-SIZE: small;
+    COLOR: #10af10;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.talk
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.talkop
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.talksysop
+{
+    FONT-SIZE: small;
+    COLOR: #00ffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.talkself
+{
+    FONT-SIZE: small;
+    COLOR: #00ffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.broadcast
+{
+    FONT-SIZE: small;
+    COLOR: #ff0000;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.broadcastseperator
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.emote
+{
+    FONT-SIZE: small;
+    COLOR: #ffff00;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.emoteop
+{
+    FONT-SIZE: small;
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.emotesysop
+{
+    FONT-SIZE: small;
+    COLOR: #00ffff;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.inchannel
+{
+    FONT-SIZE: small;
+    COLOR: #ffff00;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.join
+{
+    FONT-SIZE: small;
+    COLOR: #00ff00;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.leave
+{
+    FONT-SIZE: small;
+    COLOR: #00ff00;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
+.joinchannel
+{
+    FONT-SIZE: small;
+    COLOR: #ff0000;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica, Sans-Serif
+}
